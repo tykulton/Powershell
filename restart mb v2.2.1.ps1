@@ -1,3 +1,7 @@
+#THis application is the get the status of, start, and restart "mbendpointagent" which is a service that is required for the web
+#interface in MalwareBytes. You can also ping the machines as well, and it does it for all machines that are entered in the text box,
+#seperated by a ",".
+
 If (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator))
 {
   # Relaunch as an elevated process:
