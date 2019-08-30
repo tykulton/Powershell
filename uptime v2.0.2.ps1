@@ -1,4 +1,4 @@
-#This appplcation is used to get the username of the logged in user based on the computer names you enter in.
+#This appplcation is used to get the uptime of a machine based on the computer names you enter.
 #
 # Get Uptime
 #
