@@ -1,3 +1,4 @@
+#This appplcation is used to get the username of the logged in user based on the computer names you enter in.
 #
 # Get Uptime
 #
